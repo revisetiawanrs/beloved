@@ -1,7 +1,7 @@
 function myfunction() {
     document.getElementById("button").style.display = "none"
     document.getElementById("gambar").src = "—Pngtree—happy birthday font text balloon_8186777.png";
-    document.getElementById("tulisan").innerHTML = "Selamat ulang tahun adek manis, semoga panjang umur, sehat selalu, dan semoga apa yang diingkan tercapai. Jangan nyebelin ya tetep jadi bocil wkwk, dah pokoke yang baik-baik aja aku bantu aamiinin. gabisa merangkai kata-kata, intinya selamat ulang tahun ya, love."
+    document.getElementById("tulisan").innerHTML = "Selamat ulang tahun ya adek manis kesayangan, semoga semua yang kamu inginkan segera tercapai ya, jangan nyebelin, tetep jadi adek yg gemes aja deh wkwk. Semoga semua doa doa mu segera terkabul, jangan suka bolos kuliah ya hehe, yang rajin belajarnya. Dah lah pokoknya yang baik-baik aja ya, gabisa merangkai kata-kata indah intinya selamat ulang tahun nggih cah ayu, love you."
     document.getElementById("musik").style.display = "none"
     document.getElementById("text1").
       innerHTML = "❤️❤️❤️❤️"
